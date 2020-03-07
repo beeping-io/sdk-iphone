@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F173F09C-8074-4060-ACEB-E66D9E8A5AAA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BeepingCore</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>759C57A59088AECA4FE18F9F84E3C62482559AFC</key>
+		<string>https://bitbucket.org/beeping/beeping-sdk-iphone.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IosBeepingCoreFramework/BeepingCore.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>759C57A59088AECA4FE18F9F84E3C62482559AFC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/beeping/beeping-sdk-iphone.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>759C57A59088AECA4FE18F9F84E3C62482559AFC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>759C57A59088AECA4FE18F9F84E3C62482559AFC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BEEPING-SDK-iphone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
