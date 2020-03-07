@@ -33,7 +33,7 @@ From this link - [Official Documentation](https://beeping-io.github.io/beeping) 
 
 ## What iPhone SDK is
 
-**iPhone SDK ** is a **Beeping** framework for iPhone to decode the data embeded into a **Beep*.
+**iPhone SDK** is a **Beeping** framework for iPhone to decode the data embeded into a **Beep*.
 
 To read the steps for installing and using this binary, click on the link to our [official Documentation](https://en.beeping.land).
 
