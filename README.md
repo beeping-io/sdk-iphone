@@ -29,13 +29,13 @@ You can access all these components from our [main repository](https://github.co
 
 ## Documentation
 
-From this link - [Official Documentation](https://beeping-io.github.io/beeping) - you can access all the official **Beeping** documentation.
+From this link - [Official Documentation](https://docs.beeping.io) - you can access all the official **Beeping** documentation.
 
 ## What iPhone SDK is
 
 **iPhone SDK** is a **Beeping** framework for iPhone to decode the data embeded into a **Beep**.
 
-To read the steps for installing and using this binary, click on the link to our [official Documentation](https://en.beeping.land).
+To read the steps for installing and using this binary, click on the link to our [official Documentation](https://docs.beeping.io).
 
 ## Releases
 
