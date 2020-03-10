@@ -39,7 +39,7 @@ To read the steps for installing and using this binary, click on the link to our
 
 ## Releases
 
-You can access the different **iPhone SDK**  releases from the [following link](https://github.com/beeping-io/sdk-iphone-objective-c/releases).
+You can access the different **iPhone SDK**  releases from the [following link](https://github.com/beeping-io/sdk-iphone/releases).
 
 ## License
 
