@@ -26,3 +26,4 @@ lipo -create -output "${UNIVERSAL_OUTPUTFOLDER}/${PROJECT_NAME}.framework/${PROJ
 #Step 5. Convenience step to copy the framework to the project's directory
 cp -R "${UNIVERSAL_OUTPUTFOLDER}/${PROJECT_NAME}.framework" "${PROJECT_DIR}"
 
+
